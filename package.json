@@ -1,0 +1,40 @@
+{
+  "name": "moodle-bpmn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Kirsten Hauck kirsten.hauck@processcentric.ch",
+  "scripts": {
+    "build": "npm run clean && webpack",
+    "start": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "shx rm -rf ./dist"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "buffer": "^5.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-middleware": "^6.0.1",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "bpmn-js": "^11.1.1",
+    "bpmn-js-bpmnlint": "^0.20.1",
+    "bpmnlint": "^8.1.1",
+    "bpmnlint-loader": "^0.1.6",
+    "browserify": "^17.0.0",
+    "browserify-shim": "^3.8.14",
+    "camunda-bpmn-moddle": "^7.0.1",
+    "css-loader": "^6.5.1",
+    "diagram-js": "^10.0.0",
+    "diagram-js-origin": "^1.4.0",
+    "inherits": "^2.0.4",
+    "jquery": "^3.5.1",
+    "node-polyfill-webpack-plugin": "^2.0.1",
+    "shx": "^0.3.4",
+    "style-loader": "^3.3.1",
+    "util": "^0.12.5",
+    "webpack": "^5.70.0"
+  }
+}
