@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <div align="center">
   <a href="https://github.com/kirstenhh/teaching-bpmn">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -53,14 +45,11 @@ You now have a test instance of the modeler running on your system, and can test
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
 ## Contact
 
 [Kirsten Hauck](https://www.linkedin.com/in/kirsten-hauck-469b31152/) - kirsten.hauck@processcentric.ch
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
